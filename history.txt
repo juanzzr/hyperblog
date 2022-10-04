@@ -2,4 +2,4 @@ Soy Juan Zambrano tengo 24 anos
 
 Estoy aprendiendo git y gitHub y JavaScript
 
-necesito aprender 
+necesito aprender programacion full
